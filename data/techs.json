@@ -101,6 +101,30 @@
             "name": "ES lint",
             "image": "eslint.png",
             "link": "https://eslint.org/"
+        },
+        {
+            "id": 18,
+            "name": "Figma",
+            "image": "figmaLogo.png",
+            "link": "https://www.figma.com/"
+        },
+        {
+            "id": 19,
+            "name": "LucidChart",
+            "image": "lucidChart.png",
+            "link": "https://www.lucidchart.com/"
+        },
+        {
+            "id": 20,
+            "name": "Netlify",
+            "image": "netlify-logo.png",
+            "link": "https://www.netlify.com/"
+        },
+        {
+            "id": 21,
+            "name": "Postman",
+            "image": "postman.png",
+            "link": "https://www.postman.com/"
         }
     ]
 }
