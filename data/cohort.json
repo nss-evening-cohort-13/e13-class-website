@@ -9,7 +9,7 @@
             "linkedIn": "https://www.linkedin.com/in/rob-bandstra/",
             "portfolio": "https://bio-site-1c584.web.app/",
             "email": "rob.bandstra@gmail.com",
-            "proImg": "RobBandstra.jpg"
+            "proImg": "RobertBandstra.jpg"
         },
         {
             "id": 2,
@@ -119,7 +119,7 @@
             "linkedIn": "https://www.linkedin.com/in/chris-lojacono/",
             "portfolio": "https://chrislojacono.netlify.app/",
             "email": "clojacono92@gmail.com",
-            "proImg": "TylerBowman.jpg"
+            "proImg": "ChrisLoJacono.jpg"
         },
 
         {
@@ -131,7 +131,7 @@
             "linkedIn": "https://www.linkedin.com/in/danapham-/",
             "portfolio": "https://danapham.netlify.app/",
             "email": "danapham12@gmail.com",
-            "proImg": "TylerBowman.jpg"
+            "proImg": "DanaPham.jpg"
         },
 
         {
@@ -143,7 +143,7 @@
             "linkedIn": "https://www.linkedin.com/in/bailey-e-dennis/",
             "portfolio": "https://baileyedennis.netlify.app/",
             "email": "bailey.elise.dennis@gmail.com",
-            "proImg": "TylerBowman.jpg"
+            "proImg": "BaileyDennis.jpg"
         },
 
 
@@ -156,7 +156,7 @@
             "linkedIn": "https://www.linkedin.com/in/willkotheimer/",
             "portfolio": "https://portfolio-e85c9.web.app/",
             "email": "wkotheimer@gmail.com",
-            "proImg": "TylerBowman.jpg"
+            "proImg": "WilliamKotheimer.jpg"
         },
         {
             "id": 15,
@@ -167,7 +167,7 @@
             "linkedIn": "https://www.linkedin.com/in/michael-pfohl/",
             "portfolio": "https://michael-pfohl.netlify.app/",
             "email": "rmpfohl@gmail.com",
-            "proImg": "TylerBowman.jpg"
+            "proImg": "MichaelPfohl.jpeg"
         },
         {
             "id": 16,
@@ -178,7 +178,7 @@
             "linkedIn": "https://www.linkedin.com/in/jjoynercodes/",
             "portfolio": "https://github.com/Jonathon22/no-stylist2",
             "email": "jonathonandon@gmail.com",
-            "proImg": "TylerBowman.jpg"
+            "proImg": "JonathonJoyner.jpg"
         },
         {
             "id": 17,
@@ -189,7 +189,7 @@
             "linkedIn": "https://www.linkedin.com/in/deannamix/",
             "portfolio": "https://about-deanna.netlify.app/",
             "email": "dmariemix93@gmail.com",
-            "proImg": "TylerBowman.jpg"
+            "proImg": "DeannaMix.jpg"
         }
     ]
 }
