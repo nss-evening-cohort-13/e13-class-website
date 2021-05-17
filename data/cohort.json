@@ -2,105 +2,17 @@
     "cohort": [
         {
             "id": 1,
-            "firstName": "Wendell",
-            "lastName": "Patton, Jr.",
-            "bio": "<p>After working in multiple facets of I.T. for almost twenty years, I have decided to shift beyond being a “supporter of creators” to become a creator myself. For these nearly two decades, I have stood in awe of what development teams are able to accomplish when they have business goals coupled with a desire to improve people’s lives through the products they create. I have supported products and provided troubleshooting (help desk), gathered and documented how systems were intended to work before and as they were built (business analysis), coached and guided teams to use better practices through self observation and incremental improvement (scrum master), and coached other scrum masters to help their teams grow and perform at their best given their unique needs and challenges (agile coach). All of these experiences and perspectives have prepared me to take the plunge into building amazing products that will ultimately improve lives. I embrace the never ending journey of learning that is software engineering.</p>",
-            "github": "https://github.com/wppattonjr",
-            "linkedIn": "https://www.linkedin.com/in/wendellpattonjr/",
-            "portfolio": "https://wendellcodes.com/",
-            "email": "wendell.pattonjr@gmail.com",
-            "proImg": "https://www.mountsinai.on.ca/wellbeing/our-team/team-images/person-placeholder/image"
+            "firstName": "Rob",
+            "lastName": "Bandstra",
+            "bio": "<p>Ever since my parents brought home our first Windows 3.1 computer, I've been fascinated with computers. Much of my professional life has been spent on a computer. Working on several proprietary internal software applications sparked my interest in how they were built, and how I could improve them.</p><p>I wanted to go into development because I wanted to get into a career with plenty of room for growth, continuous education, and is rewarding mentally and creatively. Development seemed right up my alley since I enjoy problem solving and building things.</p><p>Software Development allows me to make interactive websites and to do fun and interesting things with code. I've enjoyed my journey so far, and am excited about where software development career will take me.</p>",
+            "github": "https://github.com/bandstrar",
+            "linkedIn": "https://www.linkedin.com/in/rob-bandstra/",
+            "portfolio": "https://bio-site-1c584.web.app/",
+            "email": "rob.bandstra@gmail.com",
+            "proImg": "TylerBowman.jpg"
         },
         {
             "id": 2,
-            "firstName": "Chris",
-            "lastName": "Calhoun",
-            "bio": "<p>\"When day comes, we step out of the shade, aflame and unafraid.\" - Amanda Gorman</p>",
-            "github": "https://github.com/chris-calhoun",
-            "linkedIn": "https://www.linkedin.com/in/chris-calhoun/",
-            "portfolio": "https://chriscalhoun.netlify.app/",
-            "email": "ctcalhoun2@gmail.com",
-            "proImg": "https://www.mountsinai.on.ca/wellbeing/our-team/team-images/person-placeholder/image"
-        },
-        {
-            "id": 3,
-            "firstName": "Ryan",
-            "lastName": "McNair",
-            "bio": "<p>As a lifelong lover of puzzles, problem-solving and creating art, I am a passionate professional who has recently shifted career paths to becoming a full-stack software developer. This interest stemmed from my 15-year career in accounting and revenue analytics which planted a sincere interest in data structures and data organization that I continue to build upon.</p>",
-            "github": "https://github.com/ryanmcnair",
-            "linkedIn": "https://www.linkedin.com/in/ryan-mcnair-profile/",
-            "portfolio": "https://ryanmcnair.netlify.app/",
-            "email": "ryan.mcnair@gmail.com",
-            "proImg": "https://www.mountsinai.on.ca/wellbeing/our-team/team-images/person-placeholder/image"
-        },
-        {
-            "id": 4,
-            "firstName": "Steven",
-            "lastName": "Zelenak",
-            "bio": "<p>I am an avid gamer who loves to play minecraft and code. One day I hope to program my own game and graduating NSS put me one step closer to that goal!</p>",
-            "github": "https://github.com/StevenZelenak",
-            "linkedIn": "https://www.linkedin.com/in/stevenzelenak/",
-            "portfolio": "https://github.com/StevenZelenak/personal-bio-site",
-            "email": "stevenmzelenak@gmail.com",
-            "proImg": "https://www.mountsinai.on.ca/wellbeing/our-team/team-images/person-placeholder/image"
-        },
-        {
-            "id": 5,
-            "firstName": "Joseph",
-            "lastName": "Martin",
-            "bio": "<p>I am a lover of music, food, and all things tech. I've always had a drive to learn more about technology and have enjoyed digging deep into how things worked together, especially web apps. I was told about NSS through a family friend and after some research knew it was the perfect place for me to grow my knowledge and build a foundation in web development. I love the challenges web development brings. I enjoy solving complex problems while collaborating with others to design the best solution possible.</p>",
-            "github": "https://github.com/josephtmartin",
-            "linkedIn": "https://www.linkedin.com/in/joetmartin/",
-            "portfolio": "https://josephtmartin.netlify.app/",
-            "email": "joe.martin6569@gmail.com",
-            "proImg": "https://www.mountsinai.on.ca/wellbeing/our-team/team-images/person-placeholder/image"
-        },
-        {
-            "id": 6,
-            "firstName": "Liz",
-            "lastName": "Barnes",
-            "bio": "<p>I have experience creating graphics, logos, wireframes and websites - I'm all about the visuals. I am an athlete, avid adventurer, feminist and a lifelong learner. Coding gives me the opportunity to express my creativity, while meeting a challenge every step of the way. This is why I choose development!</p>",
-            "github": "https://github.com/liz-barnes",
-            "linkedIn": "https://www.linkedin.com/in/lizmbarnes/",
-            "portfolio": "https://liz-barnes-portfolio.netlify.app/",
-            "email": "embarnes95@gmail.com",
-            "proImg": "https://www.mountsinai.on.ca/wellbeing/our-team/team-images/person-placeholder/image"
-        },
-        {
-            "id": 7,
-            "firstName": "Chris",
-            "lastName": "LoJacono",
-            "bio": "<p>I was drawn towards software development for the problem solving, but I have loved every part of the process! When I'm not behind the computer I'm usually out rock climbing or looking for something to eat.</p>",
-            "github": "https://github.com/chrislojacono",
-            "linkedIn": "https://www.linkedin.com/in/chris-lojacono/",
-            "portfolio": "https://chrislojacono.netlify.app/",
-            "email": "clojacono92@gmail.com",
-            "proImg": "https://www.mountsinai.on.ca/wellbeing/our-team/team-images/person-placeholder/image"
-        },
-        {
-            "id": 8,
-            "firstName": "Jordan",
-            "lastName": "Smith",
-            "bio": "<p>Hey, I'm Jordan Smith. A hard working father of a wonderful but crazy little boy and husband to my beautiful wife. Development has been something I've thought about diving into for a while and I'm so glad I've found a career doing what I love.</p>",
-            "github": "https://github.com/JSmith989",
-            "linkedIn": "https://www.linkedin.com/in/jordansmith989/",
-            "portfolio": "https://jordan-a-smith.netlify.app/",
-            "email": "jordansmith989@gmail.com",
-            "proImg": "https://www.mountsinai.on.ca/wellbeing/our-team/team-images/person-placeholder/image"
-        },
-        {
-            "id": 9,
-            "firstName": "Dana",
-            "lastName": "Pham",
-            "bio": "<p>\"You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.\" -Dr. Seuss</p>",
-            "github": "https://github.com/danapham",
-            "linkedIn": "https://www.linkedin.com/in/danapham-/",
-            "portfolio": "https://danapham.netlify.app/",
-            "email": "danapham12@gmail.com",
-            "proImg": "https://www.mountsinai.on.ca/wellbeing/our-team/team-images/person-placeholder/image"
-        },
-        {
-            "id": 10,
             "firstName": "Kaitlyn",
             "lastName": "Van Gorkom",
             "bio": "<p>A former math teacher turned software developer, I am a natural problem-solver and a critical thinker. I bring creativity and a collaborative spirit to any team. When I'm not coding, I enjoy being outside, traveling, and salsa dancing!</p>",
@@ -108,10 +20,122 @@
             "linkedIn": "https://www.linkedin.com/in/kait-van/",
             "portfolio": "https://kaitlynvangorkom.netlify.app/",
             "email": "kaitlyn.vangorkom@gmail.com",
-            "proImg": "https://www.mountsinai.on.ca/wellbeing/our-team/team-images/person-placeholder/image"
+            "proImg": "TylerBowman.jpg"
+        },
+        {
+            "id": 3,
+            "firstName": "Sam",
+            "lastName": "Mudick",
+            "bio": "<p>Hi, I'm Sam! I love software development, because it combines three of my favorite things: solving problems, building stuff, and learning new things!</p>",
+            "github": "github.com/smudick",
+            "linkedIn": "linkedin.com/in/sammudick",
+            "portfolio": "sammudick.com",
+            "email": "smudick@gmail.com",
+            "proImg": "TylerBowman.jpg"
+        },
+        {
+            "id": 4,
+            "firstName": "Jordan",
+            "lastName": "Smith",
+            "bio": "<p>Hey, I'm Jordan Smith. A hard working father of a wonderful but crazy little boy and husband to my beautiful wife. Development has been something I've thought about diving into for a while and I'm so glad I've found a career doing what I love.</p>",
+            "github": "https://github.com/JSmith989",
+            "linkedIn": "https://www.linkedin.com/in/jordansmith989/",
+            "portfolio": "https://jordan-a-smith.netlify.app/",
+            "email": "jordansmith989@gmail.com",
+            "proImg": "TylerBowman.jpg"
+        },
+        {
+            "id": 5,
+            "firstName": "Wendell",
+            "lastName": "Patton, Jr.",
+            "bio": "<p>After working in multiple facets of I.T. for almost twenty years, I have decided to shift beyond being a “supporter of creators” to become a creator myself. For these nearly two decades, I have stood in awe of what development teams are able to accomplish when they have business goals coupled with a desire to improve people’s lives through the products they create. I have supported products and provided troubleshooting (help desk), gathered and documented how systems were intended to work before and as they were built (business analysis), coached and guided teams to use better practices through self observation and incremental improvement (scrum master), and coached other scrum masters to help their teams grow and perform at their best given their unique needs and challenges (agile coach). All of these experiences and perspectives have prepared me to take the plunge into building amazing products that will ultimately improve lives. I embrace the never ending journey of learning that is software engineering.</p>",
+            "github": "https://github.com/wppattonjr",
+            "linkedIn": "https://www.linkedin.com/in/wendellpattonjr/",
+            "portfolio": "https://wendellcodes.com/",
+            "email": "wendell.pattonjr@gmail.com",
+            "proImg": "TylerBowman.jpg"
+        },
+        {
+            "id": 6,
+            "firstName": "Chris",
+            "lastName": "Calhoun",
+            "bio": "<p>\"When day comes, we step out of the shade, aflame and unafraid.\" - Amanda Gorman</p>",
+            "github": "https://github.com/chris-calhoun",
+            "linkedIn": "https://www.linkedin.com/in/chris-calhoun/",
+            "portfolio": "https://chriscalhoun.netlify.app/",
+            "email": "ctcalhoun2@gmail.com",
+            "proImg": "TylerBowman.jpg"
+        },
+        {
+            "id": 7,
+            "firstName": "Ryan",
+            "lastName": "McNair",
+            "bio": "<p>As a lifelong lover of puzzles, problem-solving and creating art, I am a passionate professional who has recently shifted career paths to becoming a full-stack software developer. This interest stemmed from my 15-year career in accounting and revenue analytics which planted a sincere interest in data structures and data organization that I continue to build upon.</p>",
+            "github": "https://github.com/ryanmcnair",
+            "linkedIn": "https://www.linkedin.com/in/ryan-mcnair-profile/",
+            "portfolio": "https://ryanmcnair.netlify.app/",
+            "email": "ryan.mcnair@gmail.com",
+            "proImg": "TylerBowman.jpg"
+        },
+        {
+            "id": 8,
+            "firstName": "Steven",
+            "lastName": "Zelenak",
+            "bio": "<p>I am an avid gamer who loves to play minecraft and code. One day I hope to program my own game and graduating NSS put me one step closer to that goal!</p>",
+            "github": "https://github.com/StevenZelenak",
+            "linkedIn": "https://www.linkedin.com/in/stevenzelenak/",
+            "portfolio": "https://github.com/StevenZelenak/personal-bio-site",
+            "email": "stevenmzelenak@gmail.com",
+            "proImg": "TylerBowman.jpg"
+        },
+        {
+            "id": 9,
+            "firstName": "Joseph",
+            "lastName": "Martin",
+            "bio": "<p>I am a lover of music, food, and all things tech. I've always had a drive to learn more about technology and have enjoyed digging deep into how things worked together, especially web apps. I was told about NSS through a family friend and after some research knew it was the perfect place for me to grow my knowledge and build a foundation in web development. I love the challenges web development brings. I enjoy solving complex problems while collaborating with others to design the best solution possible.</p>",
+            "github": "https://github.com/josephtmartin",
+            "linkedIn": "https://www.linkedin.com/in/joetmartin/",
+            "portfolio": "https://josephtmartin.netlify.app/",
+            "email": "joe.martin6569@gmail.com",
+            "proImg": "TylerBowman.jpg"
+        },
+        {
+            "id": 10,
+            "firstName": "Liz",
+            "lastName": "Barnes",
+            "bio": "<p>I have experience creating graphics, logos, wireframes and websites - I'm all about the visuals. I am an athlete, avid adventurer, feminist and a lifelong learner. Coding gives me the opportunity to express my creativity, while meeting a challenge every step of the way. This is why I choose development!</p>",
+            "github": "https://github.com/liz-barnes",
+            "linkedIn": "https://www.linkedin.com/in/lizmbarnes/",
+            "portfolio": "https://liz-barnes-portfolio.netlify.app/",
+            "email": "embarnes95@gmail.com",
+            "proImg": "TylerBowman.jpg"
         },
         {
             "id": 11,
+            "firstName": "Chris",
+            "lastName": "LoJacono",
+            "bio": "<p>I was drawn towards software development for the problem solving, but I have loved every part of the process! When I'm not behind the computer I'm usually out rock climbing or looking for something to eat.</p>",
+            "github": "https://github.com/chrislojacono",
+            "linkedIn": "https://www.linkedin.com/in/chris-lojacono/",
+            "portfolio": "https://chrislojacono.netlify.app/",
+            "email": "clojacono92@gmail.com",
+            "proImg": "TylerBowman.jpg"
+        },
+
+        {
+            "id": 12,
+            "firstName": "Dana",
+            "lastName": "Pham",
+            "bio": "<p>\"You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.\" -Dr. Seuss</p>",
+            "github": "https://github.com/danapham",
+            "linkedIn": "https://www.linkedin.com/in/danapham-/",
+            "portfolio": "https://danapham.netlify.app/",
+            "email": "danapham12@gmail.com",
+            "proImg": "TylerBowman.jpg"
+        },
+
+        {
+            "id": 13,
             "firstName": "Bailey",
             "lastName": "Dennis",
             "bio": "<p>Hi! I'm Bailey! I turn Snapple drinks into what could be construed as code. I am also an adventurous and friendly personality with a library of groan worthy jokes on hand at all times.</p>",
@@ -119,75 +143,53 @@
             "linkedIn": "https://www.linkedin.com/in/bailey-e-dennis/",
             "portfolio": "https://baileyedennis.netlify.app/",
             "email": "bailey.elise.dennis@gmail.com",
-            "proImg": "https://www.mountsinai.on.ca/wellbeing/our-team/team-images/person-placeholder/image"
+            "proImg": "TylerBowman.jpg"
         },
-        {
-            "id": 12,
-            "firstName": "Rob",
-            "lastName": "Bandstra",
-            "bio": "<p>Ever since my parents brought home our first Windows 3.1 computer, I've been fascinated with computers. Much of my professional life has been spent on a computer. Working on several proprietary internal software applications sparked my interest in how they were built, and how I could improve them.
-            I wanted to go into development because I wanted to get into a career with plenty of room for growth, continuous education, and is rewarding mentally and creatively. Development seemed right up my alley since I enjoy problem solving and building things.
-            Software Development allows me to make interactive websites and to do fun and interesting things with code. I've enjoyed my journey so far, and am excited about where software development career will take me.</p>",
-            "github": "",
-            "linkedIn": "",
-            "portfolio": "",
-            "email": "",
-            "proImg": "https://www.mountsinai.on.ca/wellbeing/our-team/team-images/person-placeholder/image"
-        },
-        {
-            "id": 13,
-            "firstName": "Sam",
-            "lastName": "Mudick",
-            "bio": "<p></p>",
-            "github": "",
-            "linkedIn": "",
-            "portfolio": "",
-            "email": "",
-            "proImg": "https://www.mountsinai.on.ca/wellbeing/our-team/team-images/person-placeholder/image"
-        },
+
+
         {
             "id": 14,
             "firstName": "Will",
             "lastName": "Kotheimer",
-            "bio": "<p></p>",
-            "github": "",
-            "linkedIn": "",
-            "portfolio": "",
-            "email": "",
-            "proImg": "https://www.mountsinai.on.ca/wellbeing/our-team/team-images/person-placeholder/image"
+            "bio": "<p>Husband, father, computer science nerd. As a QA tester, I've gained valuable skills in organization, testing, and contributing to a team. I attended NSS part-time as an alternative to a Masters Degree and to expand my skills into web frameworks, and have enjoyed every minute of it.</p>",
+            "github": "https://portfolio-e85c9.web.app/",
+            "linkedIn": "https://www.linkedin.com/in/willkotheimer/",
+            "portfolio": "https://portfolio-e85c9.web.app/",
+            "email": "wkotheimer@gmail.com",
+            "proImg": "TylerBowman.jpg"
         },
         {
             "id": 15,
             "firstName": "Michael",
             "lastName": "Pfohl",
-            "bio": "<p></p>",
-            "github": "",
-            "linkedIn": "",
-            "portfolio": "",
-            "email": "",
-            "proImg": "https://www.mountsinai.on.ca/wellbeing/our-team/team-images/person-placeholder/image"
+            "bio": "<p>Creative, efficient, and curious, I am completely enamored with the endless possibilities that development affords, and I am always looking for a new challenge. Coding gives me the opportunity to think in new ways and I love to grow my skills so that I can help solve unique and pressing problems.</p>",
+            "github": "https://github.com/michaelpfohl",
+            "linkedIn": "https://www.linkedin.com/in/michael-pfohl/",
+            "portfolio": "https://michael-pfohl.netlify.app/",
+            "email": "rmpfohl@gmail.com",
+            "proImg": "TylerBowman.jpg"
         },
         {
             "id": 16,
             "firstName": "Jonathon",
             "lastName": "Andon Joyner",
-            "bio": "<p></p>",
-            "github": "",
-            "linkedIn": "",
-            "portfolio": "",
-            "email": "",
-            "proImg": "https://www.mountsinai.on.ca/wellbeing/our-team/team-images/person-placeholder/image"
+            "bio": "<p>I make complicated ideas easy for anyone to understand and communicate, I am passionate about coding learning and bringing value to underrepresented communities.</p>",
+            "github": "https://github.com/Jonathon22",
+            "linkedIn": "https://www.linkedin.com/in/jjoynercodes/",
+            "portfolio": "https://github.com/Jonathon22/no-stylist2",
+            "email": "jonathonandon@gmail.com",
+            "proImg": "TylerBowman.jpg"
         },
         {
             "id": 17,
             "firstName": "Deanna",
             "lastName": "Mix",
-            "bio": "<p></p>",
-            "github": "",
-            "linkedIn": "",
-            "portfolio": "",
-            "email": "",
-            "proImg": "https://www.mountsinai.on.ca/wellbeing/our-team/team-images/person-placeholder/image"
+            "bio": "<p>I am an outgoing and aspiring Software Engineer in the Greater Nashville Area. Prior to making a move into the tech industry, I was a Teacher for five years with a masters degree in education. After much self-reflection, I realized that a passion of mine as a teen was writing code and building websites and I wanted to follow my interests.</p>",
+            "github": "https://github.com/DeannaMix",
+            "linkedIn": "https://www.linkedin.com/in/deannamix/",
+            "portfolio": "https://about-deanna.netlify.app/",
+            "email": "dmariemix93@gmail.com",
+            "proImg": "TylerBowman.jpg"
         }
     ]
 }
