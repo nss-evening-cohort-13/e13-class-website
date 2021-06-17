@@ -27,9 +27,9 @@
             "firstName": "Sam",
             "lastName": "Mudick",
             "bio": "<p>Hi, I'm Sam! I love software development, because it combines three of my favorite things: solving problems, building stuff, and learning new things!</p>",
-            "github": "github.com/smudick",
-            "linkedIn": "linkedin.com/in/sammudick",
-            "portfolio": "sammudick.com",
+            "github": "https://github.com/smudick",
+            "linkedIn": "https://linkedin.com/in/sammudick",
+            "portfolio": "https://sammudick.com",
             "email": "smudick@gmail.com",
             "proImg": "SamMudick Cropped.jpg"
         },
